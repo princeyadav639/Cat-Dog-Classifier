@@ -12,7 +12,7 @@ The trained PyTorch model is integrated with a Streamlit web application, allowi
 
 Here is a screenshot of the application:
 
-![CatDog Classifier](screenshots/app.png)
+![CatDog Classifier](screenshot/app.png)
 
 ##  Project Overview
 
